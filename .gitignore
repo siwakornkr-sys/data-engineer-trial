@@ -1,0 +1,15 @@
+# Ignore environment variables (secrets)
+.env
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore local datasets
+data/
